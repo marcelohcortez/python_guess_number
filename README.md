@@ -1,5 +1,5 @@
 # Guess Number
-*Simple game of guessing where the computer tries to guess the number you define.*
+*Simple game of guessing where the computer tries to guess the number you've chosen.*
 
 ## HOW TO USE
 Just run the *guess_number.py* file

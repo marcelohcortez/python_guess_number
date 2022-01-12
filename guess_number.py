@@ -1,7 +1,7 @@
 import random
 
 def guess_number():
-    print('\nFor this game you must set a low number and a high number.\nThe computer will try to guess the chosen number using those two as parameters.\n')
+    print('\nFor this game you must set a low number and a high number.\nThe computer will try to guess the chosen number using those two as parameters.\nBefore setting them, also decide what is your chosen number.\n')
     low = int(input('Please select a LOW number and press \'enter\': '))
     high = int(input('Please select a HIGH number and press \'enter\': '))
     answer = ''
